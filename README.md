@@ -13,6 +13,9 @@ SiglusExtract has stopped developing, no new feature in the future.
 ## Bug Report  
 Clone this repo & Pull Request  
 
+## New tools
+* omvdecoder: ⚠️⚠️⚠️support both 24bit and 32bit video -> https://github.com/xmoezzz/omvdecoder
+
 
 ## How to build
 1. VS2013 (or higher)  
